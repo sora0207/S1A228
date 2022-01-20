@@ -151,33 +151,22 @@ li {
 .main-visual-inner {
   padding: 0 40px;
 }
-
-.main-visual-title {
-  font-size: 60px;
-  font-weight: bold;
-  line-height: 1.2;
-  margin-bottom: 5px;
-  letter-spacing: .1em;
-}
-.main-visual-subtitle {
-  font-size: 20px;
-  font-weight: bold;
-  line-height: 1;
-  margin-bottom: 40px;
-  letter-spacing: .08em;
-}
 .main-visual-profile{
   display: flex;
   flex-wrap: wrap;
   max-width: 800px;
   margin: 0 auto;
 }
-.main-visual-img {
+.main-visual-img1 {
+  max-width: 45%;
+  margin-right: 130px;
+}
+.main-visual-img2 {
   width: 20%;
   margin-right: 30px;
   border-radius: 50%;
 }
-.main-visual-img img {
+.main-visual-img2 img {
   border-radius: 50%;
 }
 .main-visual-text {
